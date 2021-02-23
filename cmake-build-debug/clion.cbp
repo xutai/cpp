@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/c/clion/Sales_item.h">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="D:/c/clion/main.cpp">
 			<Option target="clion"/>
 		</Unit>
